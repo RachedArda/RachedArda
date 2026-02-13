@@ -1,3 +1,4 @@
+## Hey, I'm Rached👋 
 # 💫 About Me:
 🔭 I’m currently working on: The AIArchives platform, my Handshake AI Fellowship evaluating LLMs for programming accuracy, and a React Native Nutrition App for my senior design project.<br>👯 I’m looking to collaborate on: Full-stack web development projects, AI systems, and I am actively seeking a full-time Software Engineering/IT position<br>🌱 I’m currently learning: LLM Engineering, NextJS, and cloud infrastructure on AWS.<br>💬 Ask me about: Python, Java, C#, Data Structures, and Route Optimization Algorithms.<br>🎓 Minor in MATH and ARABIC<br>
 
